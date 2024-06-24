@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WikipediaApp</string>
+    <string name="search_hint">Search for an article...</string>
+    <string name="search_button">SEARCH</string>
+    <string name="article_image">Article Image</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="failed_to_load_article">Failed to load article</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

@@ -1,0 +1,4 @@
+<!-- integers.xml -->
+<resources>
+    <integer name="default_number_of_places">10</integer>
+</resources>
